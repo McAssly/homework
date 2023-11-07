@@ -1,0 +1,150 @@
+[Dataset 0]
+(number of cycles) 400
+<global settings>
+ Spawn Rates:
+  TruckSpawnRate = 0.1
+  BusSpawnRate = 0.1
+  MotorcycleSpawnRate = 0.2
+ VehicleSpeed = 2
+<user settings>
+ VehicleSpawnRate = 24
+ Traffic Lights: 
+  VerticalTimer = 20
+  HorizontalTimer = 20
+<vehicle data>
+ total cars: 37
+  NORTH: 12
+  EAST : 9
+  WEST : 7
+  SOUTH: 9
+ total trucks: 8
+  NORTH: 1
+  EAST : 2
+  WEST : 3
+  SOUTH: 2
+ total buses: 4
+  NORTH: 1
+  EAST : 1
+  WEST : 0
+  SOUTH: 2
+ total motorcycles: 10
+  NORTH: 2
+  EAST : 3
+  WEST : 2
+  SOUTH: 3
+<misc data>
+ total weight: 153
+ total passengers: 37
+ (buses)
+ number of MetroTransit: 2
+ number of PrivateShuttle: 1
+ number of SchoolExpress: 1
+ (motorcycles)
+ number of Kawasaki: 2
+ number of KTM: 1
+ number of Harley: 1
+ number of Ducati: 3
+ number of Suzuki: 1
+ number of Aprilia: 1
+ number of Vespa: 1
+
+
+[Dataset 1]
+(number of cycles) 800
+<global settings>
+ Spawn Rates:
+  TruckSpawnRate = 0.1
+  BusSpawnRate = 0.1
+  MotorcycleSpawnRate = 0.2
+ VehicleSpeed = 2
+<user settings>
+ VehicleSpawnRate = 36
+ Traffic Lights: 
+  VerticalTimer = 24
+  HorizontalTimer = 18
+<vehicle data>
+ total cars: 50
+  NORTH: 10
+  EAST : 18
+  WEST : 11
+  SOUTH: 11
+ total trucks: 9
+  NORTH: 2
+  EAST : 2
+  WEST : 3
+  SOUTH: 2
+ total buses: 15
+  NORTH: 8
+  EAST : 2
+  WEST : 3
+  SOUTH: 2
+ total motorcycles: 6
+  NORTH: 1
+  EAST : 0
+  WEST : 1
+  SOUTH: 4
+<misc data>
+ total weight: 249
+ total passengers: 131
+ (buses)
+ number of MetroTransit: 3
+ number of PrivateShuttle: 3
+ number of SchoolExpress: 6
+ number of CampusRider: 3
+ (motorcycles)
+ number of Harley: 1
+ number of Ducati: 2
+ number of Suzuki: 1
+ number of Vespa: 2
+
+
+[Dataset 2]
+(number of cycles) 800
+<global settings>
+ Spawn Rates:
+  TruckSpawnRate = 0.1
+  BusSpawnRate = 0.1
+  MotorcycleSpawnRate = 0.2
+ VehicleSpeed = 2
+<user settings>
+ VehicleSpawnRate = 36
+ Traffic Lights: 
+  VerticalTimer = 9
+  HorizontalTimer = 9
+<vehicle data>
+ total cars: 51
+  NORTH: 17
+  EAST : 11
+  WEST : 11
+  SOUTH: 12
+ total trucks: 4
+  NORTH: 1
+  EAST : 0
+  WEST : 3
+  SOUTH: 0
+ total buses: 10
+  NORTH: 0
+  EAST : 3
+  WEST : 2
+  SOUTH: 5
+ total motorcycles: 10
+  NORTH: 1
+  EAST : 3
+  WEST : 3
+  SOUTH: 3
+<misc data>
+ total weight: 181
+ total passengers: 97
+ (buses)
+ number of MetroTransit: 3
+ number of PrivateShuttle: 3
+ number of SchoolExpress: 2
+ number of CampusRider: 2
+ (motorcycles)
+ number of Kawasaki: 3
+ number of Triumph: 1
+ number of Yamaha: 2
+ number of Aprilia: 2
+ number of Vespa: 2
+
+
